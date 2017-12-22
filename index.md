@@ -1,6 +1,6 @@
 ## Welcome to my profile
 
-## Best Expertise : Java , Spring, Hibernate, Zoho, Quickbook, Sage100, Php, Wordpress, Google Calendar Api
+## Best Expertise : Java , Spring, Hibernate, Zoho, Quickbook, Sage, Fishbowl, Php, Wordpress, Google Calendar API
 
 • Around 7 plus years of experience in development and implementation of software applications using J2EE technologies.
 
@@ -38,5 +38,7 @@
 
 • Expert level Spring,PlayFramework,Vaddin,
 
-## Contact Info: shiroya.bhadresh@gmail.com
-## Skype: bhadresh.shiroya12
+## Contact Info: 
+   shiroya.bhadresh@gmail.com
+## Skype: 
+   bhadresh.shiroya12
