@@ -1,6 +1,6 @@
-## Welcome to my profile
+## Oracle Certified Java 8 Professional
 
-## Best Expertise : Java , Spring, Hibernate, Zoho, Quickbook, Sage, Fishbowl, Php, Wordpress, Google Calendar API
+## Best Expertise : Java , Spring, Hibernate, Zoho, Sage,  Php, Wordpress, Google Calendar API
 
 • Around 7 plus years of experience in development and implementation of software applications using J2EE technologies.
 
